@@ -1,0 +1,8 @@
+{
+    "search.exclude": {
+        "**/Magento_Theme": true
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
